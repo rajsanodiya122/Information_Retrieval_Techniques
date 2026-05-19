@@ -1,0 +1,143 @@
+{
+  "Learner_A": [
+    {
+      "doc_id": "C0495",
+      "content_title": "Reliable Google Cloud Infrastructure: Design and Process",
+      "difficulty": "Easy",
+      "content_score": 0.0,
+      "cf_score": 1.0865808067552354,
+      "sentiment_boost": 0.45855,
+      "hybrid_score": 0.5263423227020942
+    },
+    {
+      "doc_id": "C0765",
+      "content_title": "CAM and Design Manufacturing for Mechanical Engineers with Autodesk Fusion 360",
+      "difficulty": "Easy",
+      "content_score": 0.0,
+      "cf_score": 1.0840829004519297,
+      "sentiment_boost": 0.45855,
+      "hybrid_score": 0.5253431601807719
+    },
+    {
+      "doc_id": "C0881",
+      "content_title": "Principles of Computing (Part 1)",
+      "difficulty": "Easy",
+      "content_score": 0.0,
+      "cf_score": 1.0837537825299655,
+      "sentiment_boost": 0.45855,
+      "hybrid_score": 0.5252115130119862
+    },
+    {
+      "doc_id": "C2338",
+      "content_title": "IBM IT Assessment: Identifying the Right Career for You!",
+      "difficulty": "Easy",
+      "content_score": 0.0,
+      "cf_score": 1.0050455922137176,
+      "sentiment_boost": 0.45855,
+      "hybrid_score": 0.49372823688548706
+    },
+    {
+      "doc_id": "C0599",
+      "content_title": "Object-Oriented Data Structures in C++",
+      "difficulty": "Easy",
+      "content_score": 0.0,
+      "cf_score": 0.9854874618783512,
+      "sentiment_boost": 0.45855,
+      "hybrid_score": 0.48590498475134053
+    }
+  ],
+  "Learner_B": [
+    {
+      "doc_id": "C2688",
+      "content_title": "Converter Control",
+      "difficulty": "Moderate",
+      "content_score": 0.0,
+      "cf_score": 1.069402073491554,
+      "sentiment_boost": 0.45855,
+      "hybrid_score": 0.5194708293966216
+    },
+    {
+      "doc_id": "C0093",
+      "content_title": "Types of Conflict",
+      "difficulty": "Moderate",
+      "content_score": 0.0,
+      "cf_score": 0.8701732432080405,
+      "sentiment_boost": 0.45855,
+      "hybrid_score": 0.43977929728321624
+    },
+    {
+      "doc_id": "C2922",
+      "content_title": "Corporate Strategy",
+      "difficulty": "Moderate",
+      "content_score": 0.0,
+      "cf_score": 0.8475686098960002,
+      "sentiment_boost": 0.45855,
+      "hybrid_score": 0.43073744395840013
+    },
+    {
+      "doc_id": "C1222",
+      "content_title": "Multiplatform Mobile App Development with React Native",
+      "difficulty": "Moderate",
+      "content_score": 0.0,
+      "cf_score": 0.8376895799703146,
+      "sentiment_boost": 0.45855,
+      "hybrid_score": 0.42678583198812586
+    },
+    {
+      "doc_id": "C3038",
+      "content_title": "So You Think You Know Tango?",
+      "difficulty": "Moderate",
+      "content_score": 0.0,
+      "cf_score": 0.8166132303833858,
+      "sentiment_boost": 0.45855,
+      "hybrid_score": 0.4183552921533544
+    }
+  ],
+  "Learner_C": [
+    {
+      "doc_id": "C0414",
+      "content_title": "Capstone MOOC for \"Android App Development\"",
+      "difficulty": "Tough",
+      "content_score": 0.0,
+      "cf_score": 0.9381889141063822,
+      "sentiment_boost": 0.45855,
+      "hybrid_score": 0.4669855656425529
+    },
+    {
+      "doc_id": "C1965",
+      "content_title": "Conflict Management Project",
+      "difficulty": "Tough",
+      "content_score": 0.0,
+      "cf_score": 0.902134108272428,
+      "sentiment_boost": 0.45855,
+      "hybrid_score": 0.45256364330897125
+    },
+    {
+      "doc_id": "C2042",
+      "content_title": "Country Level Economics: Macroeconomic Variables and Markets",
+      "difficulty": "Tough",
+      "content_score": 0.0,
+      "cf_score": 0.8953306684491805,
+      "sentiment_boost": 0.45855,
+      "hybrid_score": 0.44984226737967226
+    },
+    {
+      "doc_id": "C2711",
+      "content_title": "China\ufffds Economic Transformation Part 1: Economic Reform and Growth in China",
+      "difficulty": "Tough",
+      "content_score": 0.0,
+      "cf_score": 0.8819588207356602,
+      "sentiment_boost": 0.45855,
+      "hybrid_score": 0.44449352829426414
+    },
+    {
+      "doc_id": "C2844",
+      "content_title": "The Sustainable Development Goals \ufffd A global, transdisciplinary vision for the future",
+      "difficulty": "Tough",
+      "content_score": 0.0,
+      "cf_score": 0.8299383810055275,
+      "sentiment_boost": 0.45855,
+      "hybrid_score": 0.42368535240221106
+    }
+  ]
+}

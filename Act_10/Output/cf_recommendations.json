@@ -1,0 +1,67 @@
+{
+  "target_learner": "Learner_B",
+  "svd_top5": [
+    {
+      "rank": 1,
+      "doc_id": "C2844",
+      "content_title": "The Sustainable Development Goals \ufffd A global, transdisciplinary vision for the future",
+      "predicted_rating": 5.680332045412226
+    },
+    {
+      "rank": 2,
+      "doc_id": "C2688",
+      "content_title": "Converter Control",
+      "predicted_rating": 5.347010367457769
+    },
+    {
+      "rank": 3,
+      "doc_id": "C1366",
+      "content_title": "The Music of the Beatles",
+      "predicted_rating": 5.163493175782519
+    },
+    {
+      "rank": 4,
+      "doc_id": "C1503",
+      "content_title": "Build a Flywheel Infographic with Inkscape",
+      "predicted_rating": 4.871221857430821
+    },
+    {
+      "rank": 5,
+      "doc_id": "C3198",
+      "content_title": "Corporate Financial Decision-Making for Value Creation",
+      "predicted_rating": 4.755389111264698
+    }
+  ],
+  "neighbourhood_top5": [
+    {
+      "rank": 1,
+      "doc_id": "C1366",
+      "content_title": "The Music of the Beatles",
+      "agg_score": 11.93353192262812
+    },
+    {
+      "rank": 2,
+      "doc_id": "C0879",
+      "content_title": "Designing and Implementing Your Coaching Strategy",
+      "agg_score": 11.932362972423244
+    },
+    {
+      "rank": 3,
+      "doc_id": "C2844",
+      "content_title": "The Sustainable Development Goals \ufffd A global, transdisciplinary vision for the future",
+      "agg_score": 11.932362972423244
+    },
+    {
+      "rank": 4,
+      "doc_id": "C1503",
+      "content_title": "Build a Flywheel Infographic with Inkscape",
+      "agg_score": 11.085654411682746
+    },
+    {
+      "rank": 5,
+      "doc_id": "C2210",
+      "content_title": "Auditing II: The Practice of Auditing",
+      "agg_score": 11.085654411682746
+    }
+  ]
+}
