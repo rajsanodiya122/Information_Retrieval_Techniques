@@ -1,0 +1,602 @@
+[
+  {
+    "doc_id": "C2210",
+    "content_title": "Auditing II: The Practice of Auditing",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C2338",
+    "content_title": "IBM IT Assessment: Identifying the Right Career for You!",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C1656",
+    "content_title": "Geo-Visualization in Python",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C1652",
+    "content_title": "Guitar for Beginners",
+    "predicted_difficulty": "Moderate",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C1451",
+    "content_title": "Understanding and Visualizing Data with Python",
+    "predicted_difficulty": "Moderate",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C2638",
+    "content_title": "Strategically Build and Engage Your Network on LinkedIn",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C0864",
+    "content_title": "Enterprise Architecture",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C0238",
+    "content_title": "Create UI in Unity Part 3 - Settings Menu",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C2576",
+    "content_title": "Constructivism and Mathematics, Science, and Technology Education",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C1366",
+    "content_title": "The Music of the Beatles",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C3122",
+    "content_title": "Blockchain in Financial Services: Strategic Action Plan",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C0257",
+    "content_title": "Introduction to Algae",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C0289",
+    "content_title": "VR and 360 Video Production",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C0240",
+    "content_title": "Urban Nature: Connecting Cities, Nature and Innovation",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C0665",
+    "content_title": "Acute and Chronic Rhinosinusitis: A Comprehensive Review",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C2353",
+    "content_title": "Seeking Investment Alpha",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C3275",
+    "content_title": "Visual Perception and Visual Illusions",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C0528",
+    "content_title": "Improving Your Statistical Questions",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C2844",
+    "content_title": "The Sustainable Development Goals \ufffd A global, transdisciplinary vision for the future",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C3272",
+    "content_title": "Pixel Art for Video Games",
+    "predicted_difficulty": "Moderate",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C3140",
+    "content_title": "Information Systems Auditing, Controls and Assurance",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C2884",
+    "content_title": "Creating Cutscenes in Unity",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C0263",
+    "content_title": "Materials Data Sciences and Informatics",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C0881",
+    "content_title": "Principles of Computing (Part 1)",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C2787",
+    "content_title": "The History of Modern Israel \ufffd Part I: From an Idea to a State",
+    "predicted_difficulty": "Moderate",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C0134",
+    "content_title": "Wireshark for Basic Network Security Analysis",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C2688",
+    "content_title": "Converter Control",
+    "predicted_difficulty": "Moderate",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C3090",
+    "content_title": "Constitutional Struggles in the Muslim World",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C0962",
+    "content_title": "Inventory Analytics",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C0052",
+    "content_title": "Severe to Profound Intellectual Disability: Circles of Care and Education",
+    "predicted_difficulty": "Moderate",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C0495",
+    "content_title": "Reliable Google Cloud Infrastructure: Design and Process",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C1359",
+    "content_title": "Creative Thinking: Techniques and Tools for Success",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C0676",
+    "content_title": "Introduction to Graph Theory",
+    "predicted_difficulty": "Moderate",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C0080",
+    "content_title": "Mastering SQL Joins",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C3111",
+    "content_title": "The Marketing Plan",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C2369",
+    "content_title": "Introduction to Docker: Build Your Own Portfolio Site",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C1897",
+    "content_title": "Create a Record of Students using Arrays in Java",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C1222",
+    "content_title": "Multiplatform Mobile App Development with React Native",
+    "predicted_difficulty": "Moderate",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C3047",
+    "content_title": "Introduction to Imagemaking",
+    "predicted_difficulty": "Moderate",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C3085",
+    "content_title": "High Level Biocontainment for Healthcare Facilities",
+    "predicted_difficulty": "Moderate",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C0449",
+    "content_title": "Recovering the Humankind's Past and Saving the Universal Heritage",
+    "predicted_difficulty": "Moderate",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C2809",
+    "content_title": "Becoming a Social Entrepreneur: Getting Started",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C3004",
+    "content_title": "Analysis of Algorithms",
+    "predicted_difficulty": "Moderate",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C2555",
+    "content_title": "Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C3082",
+    "content_title": "Ruby on Rails: An Introduction",
+    "predicted_difficulty": "Moderate",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C2711",
+    "content_title": "China\ufffds Economic Transformation Part 1: Economic Reform and Growth in China",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C3040",
+    "content_title": "Create Online Employee Onboarding Course with Eduflow",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C0030",
+    "content_title": "The Music of American English Pronunciation",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C1915",
+    "content_title": "Asymmetric Cryptography and Key Management",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C0139",
+    "content_title": "Beyond Silicon Valley: Growing Entrepreneurship in Transitioning Economies",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C0765",
+    "content_title": "CAM and Design Manufacturing for Mechanical Engineers with Autodesk Fusion 360",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C3100",
+    "content_title": "AWS: Publish a NodeJS Website from Scratch",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C1642",
+    "content_title": "Cybersecurity Policy for Water and Electricity Infrastructures",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C3045",
+    "content_title": "Custom Reports in Google Analytics",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C0729",
+    "content_title": "The Sun and the Total Eclipse of August 2017",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C3059",
+    "content_title": "Data Analytics in Accounting Capstone",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C0621",
+    "content_title": "Faster Together, Enhancing the Recruitment of Minorities in Clinical Trials",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C0450",
+    "content_title": "The Newborn Assessment",
+    "predicted_difficulty": "Moderate",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C2042",
+    "content_title": "Country Level Economics: Macroeconomic Variables and Markets",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C1965",
+    "content_title": "Conflict Management Project",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C3155",
+    "content_title": "Front-End Web Development with React",
+    "predicted_difficulty": "Moderate",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C0879",
+    "content_title": "Designing and Implementing Your Coaching Strategy",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C1833",
+    "content_title": "idea 2 IMPACT: An Introduction to Translating Assistive Health Technologies and Other Products",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C3198",
+    "content_title": "Corporate Financial Decision-Making for Value Creation",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C1128",
+    "content_title": "Essentials of Global Health",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C0070",
+    "content_title": "Converter Circuits",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C0203",
+    "content_title": "Introduction to Ableton Live",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C2913",
+    "content_title": "Battery State-of-Health (SOH) Estimation",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C2700",
+    "content_title": "Two Speed IT: How Companies Can Surf the Digital Wave, a BCG Perspective",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C0564",
+    "content_title": "Acing the Product Management Interview",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C1808",
+    "content_title": "Energy: The Enterprise",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C0414",
+    "content_title": "Capstone MOOC for \"Android App Development\"",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C1503",
+    "content_title": "Build a Flywheel Infographic with Inkscape",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C1641",
+    "content_title": "Leading Organizations",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C1178",
+    "content_title": "Nanotechnology: A Maker\ufffds Course",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C3038",
+    "content_title": "So You Think You Know Tango?",
+    "predicted_difficulty": "Moderate",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C1424",
+    "content_title": "Grammar and Punctuation",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C1228",
+    "content_title": "Predict Gas Guzzlers using a Neural Net Model on the MPG Data Set",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C2176",
+    "content_title": "3-Axis Machining with Autodesk Fusion 360",
+    "predicted_difficulty": "Moderate",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C0346",
+    "content_title": "Mindware: Critical Thinking for the Information Age",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C2053",
+    "content_title": "A Business Approach to Sustainable Landscape Restoration",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C0438",
+    "content_title": "Fundamentals of Fluid-Solid Interactions",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C3192",
+    "content_title": "Improving your statistical inferences",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C0501",
+    "content_title": "Age of Jefferson",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C2140",
+    "content_title": "Strategic management: Be competitive",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C2130",
+    "content_title": "Modern Robotics, Course 6:  Capstone Project, Mobile Manipulation",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C2599",
+    "content_title": "Fundamentals of Fluid Power",
+    "predicted_difficulty": "Moderate",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C1614",
+    "content_title": "Water Resources Management and Policy",
+    "predicted_difficulty": "Moderate",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C0990",
+    "content_title": "Exploring Beethoven's Piano Sonatas Part 4",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C1713",
+    "content_title": "Medical Technology and Evaluation",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C1752",
+    "content_title": "Foundations of Business Strategy",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C0442",
+    "content_title": "Transforming Communities",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C1206",
+    "content_title": "Research kitchen",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  },
+  {
+    "doc_id": "C2922",
+    "content_title": "Corporate Strategy",
+    "predicted_difficulty": "Moderate",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C2268",
+    "content_title": "Convolutional Neural Networks",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C0599",
+    "content_title": "Object-Oriented Data Structures in C++",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C0093",
+    "content_title": "Types of Conflict",
+    "predicted_difficulty": "Moderate",
+    "true_difficulty": "Moderate"
+  },
+  {
+    "doc_id": "C0229",
+    "content_title": "Deploy Models with TensorFlow Serving and Flask",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C0332",
+    "content_title": "Functions, Methods, and Interfaces in Go",
+    "predicted_difficulty": "Easy",
+    "true_difficulty": "Easy"
+  },
+  {
+    "doc_id": "C0017",
+    "content_title": "Creating Dashboards and Storytelling with Tableau",
+    "predicted_difficulty": "Tough",
+    "true_difficulty": "Tough"
+  }
+]

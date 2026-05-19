@@ -1,0 +1,40 @@
+{
+  "query": "machine learning neural network",
+  "results": [
+    {
+      "rank": 1,
+      "doc_id": "C2268",
+      "content_title": "Convolutional Neural Networks",
+      "difficulty": "Easy",
+      "similarity_score": 0.7825817682146907
+    },
+    {
+      "rank": 2,
+      "doc_id": "C2638",
+      "content_title": "Strategically Build and Engage Your Network on LinkedIn",
+      "difficulty": "Easy",
+      "similarity_score": 0.277550373863823
+    },
+    {
+      "rank": 3,
+      "doc_id": "C0134",
+      "content_title": "Wireshark for Basic Network Security Analysis",
+      "difficulty": "Easy",
+      "similarity_score": 0.2743857624831394
+    },
+    {
+      "rank": 4,
+      "doc_id": "C1228",
+      "content_title": "Predict Gas Guzzlers using a Neural Net Model on the MPG Data Set",
+      "difficulty": "Easy",
+      "similarity_score": 0.22169028578114017
+    },
+    {
+      "rank": 5,
+      "doc_id": "C2210",
+      "content_title": "Auditing II: The Practice of Auditing",
+      "difficulty": "Moderate",
+      "similarity_score": 0.0
+    }
+  ]
+}
