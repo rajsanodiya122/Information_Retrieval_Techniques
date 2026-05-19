@@ -1,0 +1,27 @@
+timestamp,user_id,query_text,top_result_id
+2026-05-18T17:41:30.195929,user1,information retrival,doc7
+2026-05-18T17:41:37.602904,user1,nlp,doc4
+2026-05-18T17:43:01.700480,user1,tf idf,doc18
+2026-05-18T17:43:12.508512,user1,bert,doc8
+2026-05-18T17:43:55.469423,user1,semantic,doc24
+2026-05-18T17:49:45.698354,user1,information retrieval,doc21
+2026-05-18T17:49:45.698434,user1,tfidf,doc2
+2026-05-18T17:49:45.698462,user1,pagerank,doc0
+2026-05-18T17:49:45.698475,user1,inverted index,doc9
+2026-05-18T17:49:45.698485,user1,vector space model,doc0
+2026-05-18T17:49:45.698494,user1,precision recall,doc25
+2026-05-18T17:49:45.698504,user1,web crawling,doc16
+2026-05-18T17:49:45.698513,user1,tfidf,doc14
+2026-05-18T17:49:45.698522,user1,search engine,doc27
+2026-05-18T17:49:45.698531,user1,information retrieval,doc28
+2026-05-18T17:49:45.698541,user1,document ranking,doc12
+2026-05-18T17:49:45.698550,user1,boolean retrieval,doc20
+2026-05-18T17:49:45.698559,user1,relevance feedback,doc9
+2026-05-18T17:49:45.698568,user1,query expansion,doc22
+2026-05-18T17:49:45.698577,user1,indexing,doc15
+2026-05-18T17:49:45.698586,user1,pagerank,doc23
+2026-05-18T17:49:45.698596,user1,information retrieval,doc21
+2026-05-18T17:49:45.698605,user1,latent semantic indexing,doc18
+2026-05-18T17:49:45.698614,user1,bm25,doc3
+2026-05-18T17:49:45.698623,user1,hits algorithm,doc20
+2026-05-18T17:49:45.698632,user1,user profiling,doc4
